@@ -1,0 +1,24 @@
+"""
+INSTRUCTIONS: Copy and paste this entire code into QGIS Python Console (Plugins > Python Console)
+This will install the required Azure packages in QGIS's Python environment.
+"""
+
+import subprocess
+import sys
+
+print("Installing Azure SDK packages for QGIS...")
+print(f"Using Python: {sys.executable}\n")
+
+packages = [
+    "azure-cognitiveservices-vision-computervision",
+    "msrest", 
+    "python-dotenv"
+]
+
+for package in packages:
+    print(f"Installing {package}...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+    print(f"✅ {package} installed\n")
+
+print("All packages installed successfully!")
+print("Please restart QGIS to apply changes.")

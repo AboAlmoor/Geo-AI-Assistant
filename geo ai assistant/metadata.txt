@@ -1,0 +1,16 @@
+[general]
+name=GeoAI Assistant Simple
+qgisMinimumVersion=3.0
+description=Simple AI-powered SQL generator using Ollama - minimal and beginner-friendly
+version=1.0.0
+author=GeoAI Team
+email=support@geoai.example.com
+
+about=A minimal QGIS plugin for generating SQL from natural language using Ollama. Perfect for beginners and simple workflows. No complex setup required.
+
+tags=AI, SQL, simple, beginner, ollama
+category=Plugins
+icon=icon.png
+experimental=False
+deprecated=False
+

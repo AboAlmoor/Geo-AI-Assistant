@@ -2,7 +2,7 @@
 
 # 🌍 Geo-AI-Assistant
 
-### Professional Geospatial Data Analysis & Decision Support Systems
+###  Geospatial Data Analysis & Decision Support Systems
 
 [![PostGIS](https://img.shields.io/badge/PostGIS-3.0+-blue.svg?style=flat-square&logo=postgresql)](https://postgis.net/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)

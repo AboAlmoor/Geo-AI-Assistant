@@ -481,17 +481,15 @@ Each project contains its own README with specific instructions. Generally:
 <tr>
 <td align="center">
 <strong>Ameer Saleh</strong><br>
-<sub>Geospatial Data Scientist</sub><br>
+<sub>Developer</sub><br>
 <br>
 PostGIS • Python • QGIS<br>
-Spatial Analysis • GIS Development
 </td>
 <td align="center">
 <strong>Bara Mhana</strong><br>
-<sub>GIS Analyst & Developer</sub><br>
+<sub>GIS  Developer</sub><br>
 <br>
 PostGIS • Python • QGIS<br>
-Multi-Criteria Decision Analysis
 </td>
 </tr>
 </table>

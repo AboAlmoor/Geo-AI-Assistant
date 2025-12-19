@@ -121,7 +121,7 @@ cd tree-cutting-priority
 ### Step 2: Create Virtual Environment (Recommended)
 
 ```bash
-python -m venv .venv
+py -m venv .venv
 
 # Windows
 .venv\Scripts\activate

@@ -31,9 +31,6 @@
 - [📊 Project Comparison](#-project-comparison)
 - [🎓 Learning Outcomes](#-learning-outcomes)
 - [👥 Authors](#-authors)
-- [📄 License](#-license)
-- [📞 Contact](#-contact)
-
 ---
 
 ## 🎯 Overview

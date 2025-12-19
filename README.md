@@ -504,30 +504,6 @@ Multi-Criteria Decision Analysis
 - 🎯 Site Selection & Location Analysis
 - 🌍 Urban Planning & Risk Assessment
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see individual project folders for data attribution.
-
----
-
-## 📞 Contact
-
-**Have questions or interested in collaboration?**
-
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](#)
-- 🐙 **GitHub:** [@AboAlmoor](https://github.com/AboAlmoor)
-- 🌐 **Portfolio:** [Your Portfolio Website](#)
-
-**Looking for:**
-- Geospatial analysis projects
-- GIS development opportunities
-- Consulting engagements
-- Research collaborations
-
----
 
 ## 🏆 Acknowledgments
 
@@ -546,7 +522,7 @@ This project is licensed under the MIT License - see individual project folders 
 
 [![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AboAlmoor/Geo-AI-Assistant)
 
-[⭐ View Projects](#-projects-overview) • [📖 Documentation](#-project-summaries) • [🚀 Quick Start](#-quick-start) • [📧 Contact](#-contact)
+[⭐ View Projects](#-projects-overview) • [📖 Documentation](#-project-summaries) • [🚀 Quick Start](#-quick-start)
 
 ---
 

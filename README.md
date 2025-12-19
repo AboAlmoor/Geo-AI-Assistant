@@ -487,7 +487,7 @@ PostGIS • Python • QGIS<br>
 </td>
 <td align="center">
 <strong>Bara Mhana</strong><br>
-<sub>GIS  Developer</sub><br>
+<sub>Developer</sub><br>
 <br>
 PostGIS • Python • QGIS<br>
 </td>
